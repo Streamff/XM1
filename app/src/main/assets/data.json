@@ -1,0 +1,35 @@
+{
+  "data" : [
+    {
+      "title" : "CCTV-1 综合",
+      "quality" : "标清",
+      "url" : "http://223.110.245.159/ott.js.chinamobile.com/PLTV/3/224/3221225852/index.m3u8",
+      "logo": "http://1118cctv.com/upload/images/cctvlogo/cctv1.jpg"
+    },
+    {
+      "title" : "CCTV-9 纪录",
+      "quality" : "高清",
+      "url" : "http://223.110.245.161/ott.js.chinamobile.com/PLTV/3/224/3221225868/index.m3u8",
+      "logo": "http://1118cctv.com/upload/images/cctvlogo/cctv9.jpg"
+    },
+    {
+      "title" : "CCTV-13 新闻",
+      "quality" : "标清",
+      "url": "http://223.110.245.170/ott.js.chinamobile.com/PLTV/3/224/3221225560/index.m3u8",
+      "logo": "http://1118cctv.com/upload/images/cctvlogo/cctv13.jpg"
+    },
+    {
+      "title" : "CCTV-4 中文国际",
+      "quality" : "流畅",
+      "url" : "http://223.110.245.159/ott.js.chinamobile.com/PLTV/3/224/3221225781/index.m3u8",
+      "logo": "http://1118cctv.com/upload/images/cctvlogo/cctv4.jpg"
+    },
+    {
+      "title" : "cctv-6 电影",
+      "quality" : "流畅",
+      "url" : "http://223.110.245.159/ott.js.chinamobile.com/PLTV/3/224/3221227209/index.m3u8",
+      "logo": "http://1118cctv.com/upload/images/cctvlogo/cctv6.jpg"
+    }
+  ],
+  "length": 5
+}
